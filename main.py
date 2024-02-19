@@ -3,7 +3,7 @@ class StudentsInMLOps:
     def __init__(self):
         self.total_strength = 0
         self.class_name = "MLOps"
-
+# main.py
     def enrollStudents(self, count):
         self.total_strength += count
 
